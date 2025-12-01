@@ -1,3 +1,11 @@
+[![builds.sr.ht status](https://builds.sr.ht/~apoelstra/taskwarrior-hooks.svg)](https://builds.sr.ht/~apoelstra/taskwarrior-hooks?)
+
+If you are seeing this on Github, **this is not the repository for this project**
+and it is **not** maintained here.
+
+Repository: https://git.sr.ht/~apoelstra/taskwarrior-hooks
+Bug tracker: https://todo.sr.ht/~apoelstra/taskwarrior-hooks
+
 # Andrew's TaskWarrior Hooks
 
 **Installation:** Bulid the hooks with `cargo build --release`. Whatever hooks
