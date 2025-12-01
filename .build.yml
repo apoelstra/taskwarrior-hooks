@@ -1,6 +1,7 @@
 git.sr.ht:
   enabled: true
-  image: alpine/latest
-  tasks:
-  - test: |
-      cargo test
+
+image: alpine/latest
+tasks:
+- test: |
+    cargo test
