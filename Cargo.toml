@@ -1,0 +1,15 @@
+[package]
+name = "master"
+version = "0.1.0"
+edition = "2024"
+
+[[bin]]
+# Cannot use correct name (on-add.relative-uda) due to Cargo limitations. See
+# https://github.com/rust-lang/cargo/issues/9778 for tracking.
+name = "on-add-relative-uda"
+path = "src/main.on-add.relative-uda.rs"
+
+[dependencies]
+tasklib = "0.3.2"
+chrono = { version = "0.4", features = ["clock"] }
+serde_json = "1"
