@@ -3,4 +3,4 @@ git.sr.ht:
   image: alpine/latest
   tasks:
   - test: |
-    cargo test
+      cargo test
