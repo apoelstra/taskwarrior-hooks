@@ -3,8 +3,10 @@
 If you are seeing this on Github, **this is not the repository for this project**
 and it is **not** maintained here.
 
-Repository: https://git.sr.ht/~apoelstra/taskwarrior-hooks
-Bug tracker: https://todo.sr.ht/~apoelstra/taskwarrior-hooks
+Links:
+
+* Repository: https://git.sr.ht/~apoelstra/taskwarrior-hooks
+* Bug tracker: https://todo.sr.ht/~apoelstra/taskwarrior-hooks
 
 # Andrew's TaskWarrior Hooks
 
